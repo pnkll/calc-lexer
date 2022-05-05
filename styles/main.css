@@ -1,0 +1,25 @@
+.command{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+}
+
+.main-container{
+    display: flex;
+    padding-top: 20px;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.output{
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-color: aquamarine;
+}
